@@ -1,6 +1,6 @@
 ### PHP ThinkPHP
 
-> ThinkPHP 6.0 (https://www.thinkphp.cn/) 运行环境要求 PHP7.2+ (https://www.php.net/), 由 composer (https://getcomposer.org/) 安装和管理, PHP/mysql/apache/nginx 由 BaoTa (https://www.bt.cn/new/index.html) 安装和管理。
+> ThinkPHP 6.0 (https://www.thinkphp.cn/) require PHP7.2+ (https://www.php.net/), and installed and managed by composer (https://getcomposer.org/), PHP/MySQL/Apache/Nginx were install and managed by BaoTa (https://www.bt.cn/new/index.html)。
 
 ### 1. Composer help
 ``` shell
